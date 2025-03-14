@@ -640,6 +640,7 @@ throw new Error('template requires jQuery')
 }(jQuery) // End of use strict
 
 
+
 /* BoxWidget()
  * Adds box widget functions to boxes.
  *
